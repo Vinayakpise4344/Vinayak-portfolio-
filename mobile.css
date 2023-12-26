@@ -1,0 +1,459 @@
+@media only screen and (max-width:600px){
+      
+    #main{
+        width:40vw;
+        height:90vh;
+       
+    }
+    
+    #men{
+        width: 10px;
+        margin-left: 0px;
+        padding-left: 0px;
+        display: inline-block;
+        margin-top: 12px;
+
+    }
+    .ri-close-fill{
+        color:white;
+        display: block;
+        position :absolute;
+        top:24px;
+        left:5px;
+        font-size: 25px;
+        background-color: rgb(90, 85, 85);
+     }
+     .ri-menu-line{
+          color:white;
+          margin-top: 44px;
+          font-size: 26px;
+          margin-left:130px;
+          
+     }
+    
+    .v{
+        margin-left: 8px;
+        margin-top: 39px;
+        color:rgb(223, 214, 214);
+    }
+    #nav{
+        
+        width:10px;
+       
+        margin-right: 0px;
+        position: fixed;
+    }
+    #nav ul li a{
+        background:rgb(90, 85, 85);
+        margin-top: 2px;
+        margin-left: 3px;
+        padding-left: 3px;
+        
+        font-size: 18px;
+        
+        
+        
+        
+
+    }
+    .nav ul li{
+        width: 34px;
+        
+    }
+    .nav a{
+        margin-left: 1px;
+    }
+    .info{
+        height:200px;
+        width:50px;
+       
+        margin-left: 0px;
+        margin-top: 170px;
+       
+        
+    }
+    
+    
+  
+    .fd{
+        font-size: 37px;
+        padding-left: 34px;
+        padding-top: 34px;;
+        color:rgb(223, 214, 214);
+    }
+    .develop{
+       
+     
+        text-transform: uppercase;
+        font-size: 37px;
+        padding-left: 40px;
+        margin-top: 2px;
+        color:rgb(223, 214, 214);
+        animation-name: move;
+    position: absolute;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+ 
+    animation-delay: 2s;
+    width:200px;
+    }
+    @keyframes move{
+    from{
+        left:0px;
+    }
+    to{
+        left:60px;
+    }
+    }
+       
+     
+    
+    h4{
+        padding-top: 0dvi;
+        font-size: 23px;
+        color:rgb(212, 189, 212);
+    }
+    .head{
+        color:white;   
+     
+        width:200px;
+        height:36px;
+       
+       
+        text-align: center;
+       
+        margin-left: 90px;
+        margin-top: 80px;
+        padding-top: 0px;;
+    }
+    .head h3{
+        width:245px;
+        padding: 0px;
+        font-size: 20px;
+    }
+    .head h4{
+        width:250px;
+        font-size: 18px;
+    }
+        #nav #men li{
+        background:rgb(90, 85, 85);
+        text-decoration: none;
+        list-style: none;
+        margin-top: 35px;
+        display:block;
+        height:45px;
+        width:120px;
+        border-bottom:2px solid rgb(1, 1, 1);
+        
+    }
+    #nav ul li a:hover{
+        color:rgb(238, 194, 201);
+       
+    }
+    #nav #men{
+        background:rgb(90, 85, 85);
+        position:fixed;
+        top:0;
+        right:120px;
+        width:120px;
+        height:60vh;
+        padding-top:50px;
+        margin-left: 140px;
+   
+    }
+
+    #nav a{
+   
+       
+        font-size: 12px;
+        margin-top: 10px;
+        margin-left: 63px;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+    .img{
+        display:none;
+    }
+    #about .img1{
+        display: contents;
+        
+        
+    }
+    #about{
+        
+        margin-left: 0px;
+        margin-right: 34px;
+        margin-top:1px;
+        height:80vh;
+        padding: 10px 0px;
+        display: inline-block;
+        margin-bottom: 45px;
+    }
+    
+    
+    .img2{
+        width:153px;
+        height:173px;
+        margin-top: 80px;
+        margin-left: 90px;
+        
+        border-radius: 74px;
+        
+    }
+    .me{
+        color: white;
+       
+        width:300px;
+        height:256px;
+        margin-left: 20px;
+        
+        padding: 2px;
+        font-size: 15px;
+    
+    }
+    .me li{
+        background-color:black;
+      
+        margin-top: 7px;
+        width:150px;
+        height:42px;
+        margin-left: 30px;
+        border:2px solid white;
+        list-style: none;
+        text-decoration: none;
+        justify-content: center;
+        text-align: center;
+        justify-content: space-between;
+        
+        padding-top: 8px;
+    }
+    
+    h5{
+        color:pink;
+        padding: 10px 0px;
+        width:86px;
+        font-size: 14px;;
+        
+    }
+
+    .cv{
+        width:300px;
+        margin-left: 0px;
+       
+    }
+    .dc{
+        width:300px;
+    }
+  
+    #myskills{
+   
+        margin-top: 10px;
+        width:90vw;
+        height:100vh;
+      
+    }
+    .ele{
+        display: inline-block;
+        padding: 0px 3px;
+    }
+    
+    
+    
+    .h3{
+        color: white;
+        height:40px;
+        width:150px;
+        padding-top: 45px;
+        margin-top: 10px;
+        font-size: 25px;
+        margin-left: 90px;
+    }
+    #myskills h3:hover{
+        color:rgb(58, 58, 58);
+    }
+    .ele1{
+      height:390px;
+      width:234px;
+      margin-left: 50px;
+      margin-top: 55px;
+      border:3px solid white;
+      border-radius:18px;
+    }
+    .ele1 img{
+        width:94px;
+        height:145px;
+        padding:24px 64px;
+        padding-bottom: 18px;
+    }
+    .ele1 .web{
+        font-size: 19px;
+        color:white;
+        padding-left: 24px;
+        text-transform: uppercase;
+    }
+    .nav ul{
+        padding-top: 14px;
+        color: rgb(81, 77, 77);
+        list-style: none;
+        text-decoration: none;
+    }
+    .nav ul li{
+        color: rgb(81, 77, 77);
+        list-style: none;
+        text-decoration: none;
+    }
+    .nav ul li a{
+        color: rgb(225, 211, 211);
+        font-size: 15px;
+        list-style: none;
+        text-decoration: none;
+        
+        padding-left: 53px;
+        padding-top: 2px;
+    
+    }
+    .ele1 h1{
+        justify-content: center;
+        padding: 34px;
+        
+    }
+    
+    .ele2{
+     height:390px;
+     width:234px;
+     margin-left: 50px;
+     margin-top: 55px;
+     
+      border:3px solid white;
+      border-radius:18px;
+    }
+    .ele2 img{
+        width:104px;
+        height:145px;
+        padding:24px 54px;
+    }
+    
+        
+    
+    .cod{
+        
+        font-size: 16px;
+        color:white;
+        padding-left: 4px;
+        text-transform: uppercase; 
+    }
+    .cer{
+        
+        border:2px solid white;
+        margin-top: 14px;
+        margin-left: 34px;
+        width:140px;
+        height:42px;
+       border-radius:12px;
+        border:2px solid white;
+        padding-left: 23px;
+        padding-top: 0px;
+    }
+    .cer  li a {
+        
+        color:white;
+        list-style: none;
+        text-decoration: none;
+        font-family: cursive;
+        padding-top:0px;
+        margin-top: 0px;
+        
+       
+    }
+    #Contactme{
+        height:45vw;
+        width:80vw;
+        margin-top: 330px;
+        
+    }
+    #Contactme h2{
+        color:white;
+        width:120px;
+        margin-left:90px;
+        margin-top: 490px;
+        padding-left: 10px;
+        font-size: 18px;
+        font-weight: 500;
+        color: rgb(228, 208, 212);
+        text-transform: uppercase;
+    }
+    .cn{
+        width:300px;
+        height:450px;
+        border-radius:44px;
+        border : 2px solid white;     
+        background-color: rgb(18, 15, 15) ;
+        margin-left: 23px;
+        margin-top: 120px;
+        
+        justify-content: center;
+  }
+  form input{
+    width:200px;
+    color:white;
+    margin-top: 23px;
+    border-radius: 34px;
+    border-color: #fff;
+    margin:13px 12px;
+    padding: 24px;
+
+}
+.btn{
+    background-color: rgb(221, 15, 49);
+    width:155px;
+    height: 33px;
+    margin-top: 17px;
+    margin-left: 60px;
+    border-radius: 14px;
+    color: white;
+    border-radius: 23px;
+    border-color: white;
+}
+form input{
+    width:180px;
+    color:white;
+    margin-top: 23px;
+    border-radius: 34px;
+    border-color: #fff;
+    margin:13px 32px;
+    padding: 14px;
+
+}
+.icon{
+    margin:23px 62px;
+    height:34px;
+}
+.icon ul{
+    padding: 4px;
+}
+.icon ul li{
+    list-style: none;
+    text-decoration: none;
+    
+    width:140px;
+    padding-left:7px;
+}
+.icon ul li a{
+    padding: 5px;
+    margin-left: 3px;
+    font-size: 25px;
+    border-radius: 44px;
+    background-color: black;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    border:solid 2px white;
+}
+.icon ul li a:hover{
+    background-color: #fff;
+    
+}
+
+
+}  
